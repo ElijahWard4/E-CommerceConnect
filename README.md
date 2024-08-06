@@ -1,5 +1,11 @@
 # E-CommerceConnect
 
+
+
+https://github.com/user-attachments/assets/746b2dc9-96df-4724-98ad-b09ec540dbf6
+
+
+
 This project is a functional Express.js API for an e-commerce application, connected to a PostgreSQL database using Sequelize ORM. The back end allows for the creation, retrieval, updating, and deletion of categories, products, and tags.
 
 ## Table of Contents
